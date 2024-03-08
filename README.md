@@ -1,16 +1,21 @@
-### Hi there 👋
+<p></p>
 
-<!--
-**LukasMFR/lukasmfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! I'm Lukas.
 
-Here are some ideas to get you started:
+_I'm a developer working remotely from France._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍏 I use **Swift** to make apps for the Apple enviroment like [Stop-Chart](https://github.com/LukasMFR/Stop-Chart) or [CompteurSwiftUI](https://github.com/LukasMFR/CompteurSwiftUI)
+
+🌐 I use **HTML + CSS + JavaScript** to make website like [Portfolio-HTML-CSS-School-Project](https://github.com/LukasMFR/Portfolio-HTML-CSS-School-Project) or [Compteur](https://github.com/LukasMFR/Compteur)
+
+🐍 I use **Python** to make programs like [Projet-Huffman](https://github.com/LukasMFR/Projet-Huffman)
+
+🛠️ I use **C** to build apps like [UnitCircle](https://github.com/LukasMFR/Upsilon-External/pull/1) for [Upsilon-External](https://github.com/LukasMFR/Upsilon-External)
+
+🗄️ I also have some **SQL** knowledge
+
+💬 I speak **French 🇫🇷 + English 🇬🇧 + German 🇩🇪 a bit**
+
+🔗 [GitHub profile link](https://github.com/LukasMFR)
+
+![stats](https://github-readme-stats.vercel.app/api?username=lukasmfr&count_private=true&show_icons=true&theme=tokyonight)
