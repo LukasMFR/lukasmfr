@@ -19,8 +19,8 @@ _I'm a developer working remotely from France._
 🔗 [GitHub profile link](https://github.com/LukasMFR)
 
 <a href="https://github.com/LukasMFR">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lukasmfr&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=lukasmfr&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" />
 </a>
 <a href="https://github.com/LukasMFR">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasmfr&layout=compact&theme=tokyonight" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasmfr&layout=compact&theme=tokyonight" />
 </a>
