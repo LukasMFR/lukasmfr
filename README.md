@@ -4,7 +4,7 @@
 
 _I'm a developer working remotely from France._
 
-#### I use the following technologies and languages:
+### I use the following technologies and languages:
 
 - 🍏 **Swift** to make apps for the Apple enviroment like [Stop-Chart](https://github.com/LukasMFR/Stop-Chart) or [CompteurSwiftUI](https://github.com/LukasMFR/CompteurSwiftUI)
 
