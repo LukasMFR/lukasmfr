@@ -4,15 +4,17 @@
 
 _I'm a developer working remotely from France._
 
-🍏 I use **Swift** to make apps for the Apple enviroment like [Stop-Chart](https://github.com/LukasMFR/Stop-Chart) or [CompteurSwiftUI](https://github.com/LukasMFR/CompteurSwiftUI)
+#### I use the following technologies and languages:
 
-🌐 I use **HTML + CSS + JavaScript** to make websites like [Portfolio-HTML-CSS-School-Project](https://github.com/LukasMFR/Portfolio-HTML-CSS-School-Project) or [Compteur](https://github.com/LukasMFR/Compteur)
+- 🍏 **Swift** to make apps for the Apple enviroment like [Stop-Chart](https://github.com/LukasMFR/Stop-Chart) or [CompteurSwiftUI](https://github.com/LukasMFR/CompteurSwiftUI)
 
-🐍 I use **Python** to make programs like [Projet-Huffman](https://github.com/LukasMFR/Projet-Huffman)
+- 🌐 **HTML + CSS + JavaScript** to make websites like [Portfolio-HTML-CSS-School-Project](https://github.com/LukasMFR/Portfolio-HTML-CSS-School-Project) or [Compteur](https://github.com/LukasMFR/Compteur)
 
-🛠️ I use **C** to build apps like [UnitCircle](https://github.com/LukasMFR/Upsilon-External/pull/1) for [Upsilon-External](https://github.com/LukasMFR/Upsilon-External)
+- 🐍 **Python** to make programs like [Projet-Huffman](https://github.com/LukasMFR/Projet-Huffman)
 
-🗄️ I also have some **SQL** knowledge.
+- 🛠️ **C** to build apps like [UnitCircle](https://github.com/LukasMFR/Upsilon-External/pull/1) for [Upsilon-External](https://github.com/LukasMFR/Upsilon-External)
+
+- 🗄️ I also have some **SQL** knowledge.
 
 💬 I speak **French 🇫🇷 + English 🇬🇧 + German 🇩🇪 a bit**
 
