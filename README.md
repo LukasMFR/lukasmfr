@@ -10,6 +10,8 @@ _I'm a developer working remotely from France._
 
 - 🌐 **HTML + CSS + JavaScript** to make websites like [Portfolio-HTML-CSS-School-Project](https://github.com/LukasMFR/Portfolio-HTML-CSS-School-Project) or [Compteur](https://github.com/LukasMFR/Compteur)
 
+- 🔵 **PHP** to develop web applications like [projet-php-e-commerce](https://github.com/LukasMFR/projet-php-e-commerce)
+
 - 🐍 **Python** to make programs like [Projet-Huffman](https://github.com/LukasMFR/Projet-Huffman)
 
 - 🛠️ **C** to build apps like [UnitCircle](https://github.com/LukasMFR/Upsilon-External/pull/1) for [Upsilon-External](https://github.com/LukasMFR/Upsilon-External)
