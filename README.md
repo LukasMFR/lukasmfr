@@ -16,6 +16,8 @@ _I'm a developer working remotely from France._
 
 - 🛠️ **C** to build apps like [UnitCircle](https://github.com/LukasMFR/Upsilon-External/pull/1) for [Upsilon-External](https://github.com/LukasMFR/Upsilon-External)
 
+- 🐚 **Shell** to make scripts like [svg-to-png](https://github.com/LukasMFR/svg-to-png.git)
+
 - 🗄️ I also have some **SQL** knowledge.
 
 💬 I speak **French 🇫🇷 + English 🇬🇧 + German 🇩🇪 a bit**
