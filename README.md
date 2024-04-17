@@ -18,6 +18,8 @@ _I'm a developer working remotely from France._
 
 - 🐚 **Shell** to make scripts like [svg-to-png](https://github.com/LukasMFR/svg-to-png.git)
 
+- ⚙️ **C** for network programming projects like [TCP-Communication-System](https://github.com/LukasMFR/TCP-Communication-System.git)
+
 - 🗄️ I also have some **SQL** knowledge.
 
 💬 I speak **French 🇫🇷 + English 🇬🇧 + German 🇩🇪 a bit**
