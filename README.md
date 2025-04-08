@@ -6,7 +6,7 @@ _I'm a developer working remotely from France._
 
 ### I use the following technologies and languages:
 
-- 🍏 **Swift** to make apps for the Apple enviroment like [Stop-Chart](https://github.com/LukasMFR/Stop-Chart) or [CompteurSwiftUI](https://github.com/LukasMFR/CompteurSwiftUI)
+- 🍏 **Swift** to make apps for the Apple enviroment like [Stop-Chart](https://github.com/LukasMFR/Stop-Chart) or [CompteurSwiftUI](https://github.com/LukasMFR/CompteurSwiftUI) or [GitSmartSplitter](https://github.com/LukasMFR/GitSmartSplitter)
 
 - 🌐 **HTML + CSS + JavaScript** to make websites like [Portfolio-HTML-CSS-School-Project](https://github.com/LukasMFR/Portfolio-HTML-CSS-School-Project) or [Compteur](https://github.com/LukasMFR/Compteur)
 
