@@ -38,3 +38,12 @@ _I'm a developer working remotely from France._
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasmfr&layout=compact&langs_count=8&card_width=320&theme=tokyonight#gh-dark-mode-only#" />
 </a>
+
+---
+
+<h2 align="center">☕ Support my work</h2>
+<p align="center">
+  If you enjoy the tools or projects I build and want to support my future creations,<br>
+  you can <a href="https://coff.ee/LukasMFR" target="_blank">buy me a coffee</a>.  
+</p>
+<p align="center"><strong>Thank you for your support!</strong></p>
